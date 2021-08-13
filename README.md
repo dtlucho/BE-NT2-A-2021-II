@@ -13,4 +13,5 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, dguzman-ort
 - Luciano Di Tomaso, dtlucho
+- Pablo Maurig, pablomaurig
 
